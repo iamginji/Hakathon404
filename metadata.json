@@ -1,0 +1,6 @@
+{
+  "name": "UniChain - Cổng Quản Lý Cấp Phát Văn Bằng Blockchain",
+  "description": "Hệ thống quản trị và cấp phát văn bằng đại học bảo chứng trên sổ cái Blockchain với chữ ký số HSM/PKI, chuẩn W3C Verifiable Credentials.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
